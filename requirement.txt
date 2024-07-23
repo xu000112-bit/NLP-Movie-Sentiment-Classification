@@ -1,0 +1,11 @@
+spacy==3.7.4
+matplotlib==3.7.1
+seaborn==0.13.1
+scattertext==0.1.19
+textblob==0.16.0
+scikit-learn==1.2.2
+tqdm==4.66.2
+w3lib==2.1.2
+pandas==2.0.3
+numpy==1.25.2
+nltk==3.8.1
